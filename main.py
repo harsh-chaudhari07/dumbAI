@@ -1,7 +1,7 @@
 import json
 import random
 
-neurodata = "D:\Projects\Python Projects\Language Processor\mdata.txt"
+neurodata = "mdata.txt"
 
 def match(a, b):
     # returns the %age of words of b in a
